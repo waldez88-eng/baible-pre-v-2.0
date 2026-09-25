@@ -52,4 +52,3 @@ If an agent fails a scenario, ask what the failure teaches:
 - or a new rule/process when the lesson genuinely generalizes.
 
 See [REALITY_CHECK.md](REALITY_CHECK.md) and [LESSONS_LEARNED.md](LESSONS_LEARNED.md).
-
