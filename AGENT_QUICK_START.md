@@ -63,4 +63,3 @@ Before trusting an important conclusion:
 **What do we know? What is the source? What are we inferring? What remains unknown? What would falsify it? What has actually been verified?**
 
 That is the door to [Reality Check](REALITY_CHECK.md).
-
