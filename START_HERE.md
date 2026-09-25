@@ -131,4 +131,3 @@ For the detailed boundary, see [PUBLIC_PRIVATE_BOUNDARY.md](PUBLIC_PRIVATE_BOUND
 - [LESSONS_LEARNED.md](LESSONS_LEARNED.md) — reusable lessons.
 
 **Start small. Learn as you go. Build only what solves a real problem.**
-
