@@ -95,4 +95,3 @@ Expose evidence, uncertainty, alternatives, consequences, and required approvals
 Start with one agent. Add orchestration when coordination becomes a real problem. Add relational context when context relationships become difficult to preserve. Add integration infrastructure when several execution surfaces must coordinate. Add monitoring when the workflow is observable.
 
 Every added layer should solve a demonstrated problem and remain independently understandable.
-
