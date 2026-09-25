@@ -67,4 +67,3 @@ When work passes between agents, preserve the role of the sender and receiver. A
 ## Guardrails
 
 No secrets. No bypassing security. No irreversible/destructive action without appropriate approval. No silent business-rule changes. No hiding uncertainty. No scope expansion disguised as helpfulness.
-
