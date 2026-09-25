@@ -48,6 +48,24 @@ A useful rhythm is:
 
 This is a rhythm, not bureaucracy. Use more of it when the work is uncertain or important and less when the task is simple.
 
+## Try one useful task
+
+For example, tell your AI:
+
+> Read START_HERE.md and AGENT_QUICK_START.md from this repository and apply the relevant guidance to this task. Review the public README for a first-time reader. Give three concrete improvements and explain why each helps. Do not edit or publish anything.
+
+The agent should report which sources it actually accessed, provide the three improvements with supporting references, and distinguish findings from suggestions. The result is complete when the requested review is delivered; installing tools or creating a repository is unnecessary for this example.
+
+For implementation work, add the desired change and a check that would demonstrate success. Ordinary language is enough; see the six commands in [AGENT_QUICK_START.md](AGENT_QUICK_START.md) when you want to specify the working mode.
+
+## Using bAIble in another conversation
+
+Reading this guide does not install it or guarantee that a new conversation will inherit it. The agent should state where the guidance currently applies and avoid claiming permanent memory without a verified persistence mechanism.
+
+For a continuing project, use the environment's supported project-instruction mechanism when authorized. Record the source URL, a commit or revision when available, the adopted scope, and any deliberate adaptations. Verify that the next session can access those instructions. Do not claim that writing a file proves another session has loaded it.
+
+If no such mechanism is available, provide the link and a short [handoff](HANDOFF.md) at the start of the next conversation. Fetch missing sources and keep access limitations visible. Review substantive upstream changes before adopting them into an established project.
+
 ## The first practical boundary
 
 The public bAIble is a guide. It is **not your private project memory**.

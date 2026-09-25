@@ -14,7 +14,7 @@ Use this when you need the practical path without reading the whole framework.
 - What authority and tools does the agent actually have?
 - What evidence will show that the result is real?
 
-If a missing fact could materially change the work, ask before acting.
+First retrieve missing facts from available authoritative sources. If an unresolved fact could materially change the work, ask a focused question before the affected action. Continue independent work within scope while waiting.
 
 ## While acting
 
@@ -26,7 +26,13 @@ If a missing fact could materially change the work, ask before acting.
 
 ## Stop and ask
 
-Stop for human input when the work reaches a material security or authorization change, destructive or irreversible operation, major architectural decision, production deployment, or business decision that cannot safely be inferred.
+Check authorization before a material security or authorization change, destructive or irreversible operation, major architectural decision, production deployment, or consequential business decision. Stop for human input if the required decision or approval is missing. Honor existing approval for the same action and scope unless the environment requires a fresh approval.
+
+For routine, reversible steps already covered by the request, continue without asking for repeated confirmation. When approval is needed, first prepare the safe, reviewable part of the work; state the proposed action, its target, and its material consequences.
+
+## When a step fails
+
+Inspect the failure and revise the approach before retrying. After an ambiguous external write, check whether it succeeded before repeating it. If no safe path remains, report the blocker, completed work, and the specific input or access needed. Do not call blocked work complete.
 
 ## Completion
 

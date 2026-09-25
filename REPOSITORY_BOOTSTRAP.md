@@ -58,7 +58,7 @@ Never place passwords, tokens, private keys, session cookies, or similar credent
 
 Add **rAIda** when there is a real coordination problem.
 
-Add **UnAiversed** when relationships between important context become difficult to preserve.
+Add **Basecamp** when relationships between important context become difficult to preserve. See [BASECAMP_GUIDE.md](BASECAMP_GUIDE.md); UnAiversed is the earlier name for this contextual layer.
 
 Add an integration layer when multiple execution surfaces need coordination.
 
