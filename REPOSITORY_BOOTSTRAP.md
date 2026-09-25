@@ -78,4 +78,3 @@ The setup is sufficient when the user can answer:
 - What is public and what is private?
 
 Unknown answers should be recorded as UNKNOWN, not invented.
-
